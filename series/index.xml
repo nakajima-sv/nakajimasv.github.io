@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 再建！もといちゃんハウス</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://nakajimasv.github.io/series/</link>
     <description>Recent content in Series on 再建！もといちゃんハウス</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nakajimasv.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>う</title>
-      <link>http://localhost:1313/series/%E3%81%86/</link>
+      <link>https://nakajimasv.github.io/series/%E3%81%86/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/%E3%81%86/</guid>
+      <guid>https://nakajimasv.github.io/series/%E3%81%86/</guid>
       <description></description>
     </item>
   </channel>
